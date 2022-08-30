@@ -1,5 +1,4 @@
-
-#Flavors of National Anthems 
+# Flavors of National Anthems 
 
 (Intro) Why is this study even important?
 Have you often wondered why companies and institutions have a motto attached to their brand?
