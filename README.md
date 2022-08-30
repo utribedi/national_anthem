@@ -11,3 +11,5 @@ Here I have used a dataset of national anthems of all countries in the world and
 text preprocessing techniques I have tried to get the crux of the themes that are being discussed. The hypothesis is that there will be 
 many countries that will have similar set of virtues being discussed about in their national anthems. The idea is to group these countries on these 
 commaonalities and project them on a world map. Going forward we can extend this research and infer more on these groups of countries. 
+
+Project inspired by:https://www.youtube.com/watch?v=a-AqvPtjjts&t=254s, https://github.com/lucas-de-sa/national-anthems-clustering
